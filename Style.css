@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.box-one {
+    background-color: indianred;
+    padding: 20px;
+    border: 20px solid mediumpurple;
+    margin: 20px;
+    width: 90px;
+}
+.box-two {
+    background-color: cornflowerblue;
+    padding: 20px;
+    border: 20px solid mediumpurple;
+    margin: 70px;
+    width: 90px;
+}

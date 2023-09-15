@@ -1,0 +1,35 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td, th{
+    border: 2px solid black;
+    width: 14.27%
+}
+th{
+    padding: 8px 0;
+    background-color: palegreen;
+}
+td{
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend{
+    background-color: mediumpurple;
+    color: whitesmoke;
+}
+.ofs{
+    background-color: lightsalmon;
+}
+.regular{
+    background-color: lightskyblue;
+}
+.rally{
+    background-color: lightgrey;
+}
+.test{
+    background-color: palevioletred;
+}
